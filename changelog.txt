@@ -1,0 +1,14 @@
+*** Changelog ***
+
+= 1.1.1 - 2022.08.30 =
+* Removed - Payment due date configuration for Direct Debit SEPA with payment guarantee
+
+= 1.1.0 - 2022.06.30 =
+* New   - Implemented Online bank transfer payment
+* Enhanced  - Updated payment logo for sofort payment
+
+= 1.0.1 - 2022.03.31 =
+* Fix   - Compatibility for SAP commerce cloud 2105
+
+= 1.0.0 - 2021.09.03 =
+New release: Payment module implemented with seamless payment experience, including one-click payments and multi-store features of SAP Commerce Cloud
