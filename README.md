@@ -65,10 +65,12 @@ Novalnet's plugin package comes with a detailed installation guide explaining th
 
 Novalnet AG<br>
 Zahlungsinstitut (ZAG)<br>
-Feringastr. 4<br>
-85774 Unterföhring<br>
+Gutenbergstraße 7<br>
+D-85748 Garching<br>
 Deutschland<br>
-Web: www.novalnet.de 
+E-mail: sales@novalnet.de<br>
+Tel: +49 89 9230683-20<br>
+Web: www.novalnet.de
 
 ## Novalnet AG?
 Novalnet AG as a <a href="https://www.novalnet.de/zahlungsinstitut"> leading financial service institution</a>, operates in the market as a full payment service provider. Novalnet AG provides online merchants, user-friendly payment integration with all major shop systems and self-programmed sites. Novalnet allows merchants to accept, manage, and monitor payments under one platform with one single contract.<br>
